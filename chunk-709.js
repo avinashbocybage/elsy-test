@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmicrofrontend_react_webpack_app=self.webpackChunkmicrofrontend_react_webpack_app||[]).push([[709],{2709:function(e,n,t){t.r(n);var c=t(7294);n.default=function(){return c.createElement("div",null,"This is About Component")}}}]);
